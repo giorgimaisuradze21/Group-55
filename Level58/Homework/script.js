@@ -95,3 +95,6 @@
 // Task 7
 // let name = prompt("Enter your name:");
 // console.log(`Welcome, ${name}!`);
+
+// Task 8
+// console.log("Hello, \"World!\"");
