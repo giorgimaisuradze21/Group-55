@@ -8,13 +8,13 @@
 
 // console.log(book);
 
-let student = {
-  name: "მარიამი",
-  age: 20,
-  faculty: "ინფორმატიკა",
-  course: 3,
-  averageGrade: 91.3
-};
+// let student = {
+//   name: "მარიამი",
+//   age: 20,
+//   faculty: "ინფორმატიკა",
+//   course: 3,
+//   averageGrade: 91.3
+// };
 
-// 2. ობიექტის გამოტანა
-console.log(student);
+
+// console.log(student);

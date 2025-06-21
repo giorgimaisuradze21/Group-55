@@ -55,3 +55,23 @@
 //     console.log("არც ისე კაო ამინდი");
 // } else {
 //     console.log("ცხელი ამინდი");
+
+
+
+
+
+// let score = parseInt(prompt("შეიყვანე შენი ქულა (0-100):"));
+
+// if (score >= 90 && score <= 100) {
+//     console.log("შენი შეფასებაა: A");
+// } else if (score >= 80) {
+//     console.log("შენი შეფასებაა: B");
+// } else if (score >= 70) {
+//     console.log("შენი შეფასებაა: C");
+// } else if (score >= 60) {
+//     console.log("შენი შეფასებაა: D");
+// } else if (score >= 0) {
+//     console.log("შენი შეფასებაა: F");
+// } else {
+//     console.log("შეყვანილი ქულა არასწორია");
+// }
